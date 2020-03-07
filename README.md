@@ -35,6 +35,6 @@ Paulo Oliveira
 Floripa - Ilha da Mágia SC Brasil
 paulosoujava@gmail.com
 
-Video:
-[![N|Linkdin](https://www.linkedin.com/posts/paulo-oliveira-92127b1a0_androidnative-activity-6642148797168267264-xdI1)](https://www.linkedin.com/in/paulo-oliveira-92127b1a0/)
+Video no linkedin:
+[![N|Linkdin](https://news.comschool.com.br/wp-content/uploads/2017/12/icone-linkedin-300x127.jpg)](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6642148754390564866)
 
