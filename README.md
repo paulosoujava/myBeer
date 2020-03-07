@@ -36,5 +36,5 @@ Floripa - Ilha da Mágia SC Brasil
 paulosoujava@gmail.com
 
 Video:
-[![N|Linkdin](https://media-exp1.licdn.com/dms/image/C4D22AQFxXQPzq0-fMw/feedshare-shrink_1280/0?e=1584576000&v=beta&t=J-3jfllCYWBlxzdBqZM5tL7w0zZ40pmqmwsNj3bp91A)](https://www.linkedin.com/in/paulo-oliveira-92127b1a0/)
+[![N|Linkdin](https://www.linkedin.com/posts/paulo-oliveira-92127b1a0_androidnative-activity-6642148797168267264-xdI1)](https://www.linkedin.com/in/paulo-oliveira-92127b1a0/)
 
